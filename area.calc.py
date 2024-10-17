@@ -99,7 +99,7 @@ def main():
         st.write("This calculator helps you find the area of different geometric shapes like circles, rectangles, triangles, trapezoids, squares, and parallelograms.")
 
     # Footer with custom markdown and developer name
-    st.markdown("---")
+    st.markdown("mak3.0")
     st.markdown("<h4 style='text-align: center; color: #FF5733;'>Developed by: Your Name</h4>", unsafe_allow_html=True)
     st.markdown("<p style='text-align: center;'>Made with ❤️ using Streamlit</p>", unsafe_allow_html=True)
 
