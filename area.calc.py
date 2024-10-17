@@ -45,7 +45,7 @@ def main():
     # Side panel for developer's name and additional instructions
     st.sidebar.title("Shape Area Calculator")
     st.sidebar.markdown("<h3 style='color: #FF5733;'>Select a shape and provide dimensions:</h3>", unsafe_allow_html=True)
-    st.sidebar.markdown("### Developed by: Your Name")
+    st.sidebar.markdown("### Developed by: mak3.0")
 
     # Select shape in the sidebar with colored markdown
     shape = st.sidebar.selectbox(
